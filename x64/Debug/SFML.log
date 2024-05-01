@@ -1,0 +1,9 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(517,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (SFML.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Main.cpp
+C:\Users\zbyne\source\repos\SFML\src\Main.cpp(570,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\zbyne\source\repos\SFML\src\Main.cpp(570,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\zbyne\source\repos\SFML\src\Main.cpp(590,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\zbyne\source\repos\SFML\src\Main.cpp(590,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\zbyne\source\repos\SFML\src\Main.cpp(596,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\zbyne\source\repos\SFML\src\Main.cpp(596,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  SFML.vcxproj -> C:\Users\zbyne\source\repos\SFML\x64\Debug\SFML_Test.exe
